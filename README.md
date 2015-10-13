@@ -12,6 +12,7 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 <a href="https://heroku.com/deploy?template=https://github.com/samuelsharaf/node-todo">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+
 1. Clone the repository: `git clone git@github.com:scotch-io/node-todo`
 2. Install the application: `npm install`
 3. Start the server: `node server.js`
