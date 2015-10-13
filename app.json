@@ -1,0 +1,9 @@
+{
+  "name":"Node-Todo",
+  "description":"This is a simple Angular Node.js App",
+  "scripts":{},
+  "env":{},
+  "addons":[
+    "mongolab"
+  ]
+}
